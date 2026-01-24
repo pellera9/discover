@@ -3,6 +3,11 @@
   <h3 align="center">Learning to Discover at Test Time</h3>
 </p>
 
+
+> [!IMPORTANT]
+> We'll refactor the code and share a much simpler API very soon! Sorry for the transition period..
+
+
 <p align="center">
   <a href="https://arxiv.org/abs/2601.16175"><img src="https://img.shields.io/badge/arXiv-2601.16175-b31b1b.svg" alt="arXiv"></a>
   <a href="https://test-time-training.github.io/discover/"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
@@ -25,9 +30,6 @@
 <p align="center">
   <img src="assets/figure1.svg" width="800">
 </p>
-
-> [!NOTE]
-> We'll refactor the code and sharing a much simpler API soon.
 
 ## Key Results
 
